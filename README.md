@@ -15,8 +15,13 @@ you must run this command in cmd /command prompt.
 4 ==> pip install --user numpy mss pyautogui opencv-python pillow pywin32 PyQt5
                                                          --(at last if you get any administrator error then use this).
 
+--------------some times it gives some glitch / problems---->
+if not past on directly on google website then you must past on image past section (press ctrl+v).
+
+
 time to time changes or update comes in this app so we need some suggestion or new things to add some features or more .
 so support us and enjoy this code in daily life uses if be need.
 
 created by - vinamrakh8-stack (on github).
 website - https://github.com/vinamrakh8-stack
+
