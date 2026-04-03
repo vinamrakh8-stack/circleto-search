@@ -18,5 +18,5 @@ you must run this command in cmd /command prompt.
 time to time changes or update comes in this app so we need some suggestion or new things to add some features or more .
 so support us and enjoy this code in daily life uses if be need.
 
-created by - vinamrakh8-stack (on gethub).
+created by - vinamrakh8-stack (on github).
 website - https://github.com/vinamrakh8-stack
